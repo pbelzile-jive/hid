@@ -1,3 +1,3 @@
-module github.com/karalabe/hid
+module github.com/pbelzile-jive/hid
 
 go 1.12
